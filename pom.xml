@@ -19,6 +19,7 @@
     <module>runtime</module>
     <module>test-framework</module>
     <module>integration-tests</module>
+      <module>integration-tests/toto</module>
   </modules>
   <scm>
     <connection>scm:git:git@github.com:quarkiverse/quarkus-vault.git</connection>
